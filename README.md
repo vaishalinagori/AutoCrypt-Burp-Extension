@@ -4,7 +4,7 @@
 
 ## Features
 - Select specific parameter values or the entire POST body for encryption and decryption.
-- Supports running external Python, Java, and HTML scripts.
+- Supports running external Python, Java scripts.
 - Saves user selection for future encryption/decryption tasks.
 
 ## Installation
