@@ -30,4 +30,4 @@ The main goal of this Burp Suite extension is to simplify the process of handlin
 
 ## Help
 
-Feel free contant on vaishalijain0235@gmail.com / https://www.linkedin.com/in/vaishali-nagori/
+Feel free to contact on vaishalijain0235@gmail.com / https://www.linkedin.com/in/vaishali-nagori/
