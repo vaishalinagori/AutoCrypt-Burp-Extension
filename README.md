@@ -1,6 +1,6 @@
 # AutoCryptExtension
 
-**AutoCryptExtension** is a Burp Suite extension that allows users to encrypt and decrypt HTTP request bodies or specific parameter values using external scripts (Python & Java). Once the user selects the script, the extension will simply encrypt and decrypt data with right clikc.
+**AutoCryptExtension** is a Burp Suite extension that allows users to encrypt and decrypt HTTP request bodies or specific parameter values using external scripts (Python & Java). Once the user selects the script, the extension will simply encrypt and decrypt data with right click.
 
 The main goal of this Burp Suite extension is to simplify the process of handling encrypted data during penetration testing. Typically, when dealing with encryption in applications, pentesters have to write separate Python or Java scripts to decrypt data, then manually copy and paste the results between their terminal and Burp Suite, which is both time-consuming and tedious. This extension eliminates that hassle by allowing users to directly integrate their scripts within Burp Suite, enabling encryption and decryption of data with a simple right-click.
 
@@ -25,7 +25,7 @@ The main goal of this Burp Suite extension is to simplify the process of handlin
 4. The selected portion (or entire POST body) will be replaced with the output.
 
 ## Demo
-![AutoCrypt Burp Extension Demo](https://github.com/vaishalinagori/AutoCrypt-Burp-Extension/blob/main/Demo.gif)
+![AutoCrypt Burp Extension Demo](https://github.com/vaishalinagori/AutoCrypt-Burp-Extension/blob/main/DEMO.gif)
 
 
 ## Help
